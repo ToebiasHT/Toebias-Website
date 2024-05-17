@@ -1,0 +1,9 @@
+site_name: Toe•bias
+site_url: https://www.toebias.com
+theme:
+ name: material
+ features:
+  - naviagtion.tabs
+  - naviagtion.tabs.sticky
+ palette:
+  primary: teal
