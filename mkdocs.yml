@@ -5,5 +5,21 @@ theme:
  features:
   - naviagtion.tabs
   - naviagtion.tabs.sticky
+  - naviagtion.footer
  palette:
   primary: teal
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+plugins:
+ - glightbox
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/toebiasht/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:services@toebias.com
+copyright: Copyright &copy; 2021 - 2024 Toe•bias
