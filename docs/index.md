@@ -150,7 +150,6 @@
     ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/consultancy.jpeg)
 <div>
     <p style="font-size: 25px;
-            color: #ADD8E6;
             background: -webkit-linear-gradient(left, #067d68, #50d5b7);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent">
@@ -170,3 +169,11 @@
 </br>
 </br>
 </br>
+
+!!! success "Reach Out"
+    <h3>
+        Reach out via email at 
+        <p style="color:#067d68">
+            services@toebias.com
+        </p>
+    </h3>
