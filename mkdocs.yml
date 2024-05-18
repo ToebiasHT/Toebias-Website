@@ -23,3 +23,11 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:services@toebias.com
 copyright: Copyright &copy; 2021 - 2024 Toe•bias
+nav:
+  - Home: index.md
+  - Analytics and Visualization: data-analytics-and-visualization.md
+  - Business Process Automation: business-process-automation.md
+  - Custom Software Development: custom-software-development.md
+  - Datascience as a service: datascience-as-a-service.md
+  - Training: training.md
+  - Consultancy: consultancy.md

@@ -22,7 +22,7 @@
 </br>
 
 !!! tip inline "Data analytics and Visualization"
-    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/analytic-graphs.jpeg)
+    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/analytic-graphs.jpeg)
 <div>
     <p style="font-size: 25px;
             color: #ADD8E6;
@@ -40,14 +40,14 @@
         </br>
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](data-analytics-and-visualization.md){ .md-button }
 </br>
 </br>
 </br>
 </br>
 
 !!! tip inline end "Business Process Automation"
-    ![business-process-automation](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/screen-graphs.jpeg)
+    ![business-process-automation](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/screen-graphs.jpeg)
 <div>
     <p style="font-size: 25px;
             color: #ADD8E6;
@@ -64,14 +64,14 @@
         tactics
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](business-process-automation.md){ .md-button }
 </br>
 </br>
 </br>
 </br>
 
 !!! tip inline "Custom Software development"
-    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/innovative-solutions.jpeg)
+    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/innovative-solutions.jpeg)
 <div>
     <p style="font-size: 25px;
             color: #ADD8E6;
@@ -89,14 +89,14 @@
         </br>
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](custom-software-development.md){ .md-button }
 </br>
 </br>
 </br>
 </br>
 
 !!! tip inline end "Data Science as a Service"
-    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/group-analysis-two.jpeg)
+    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/group-analysis-two.jpeg)
 <div>
     <p style="font-size: 25px;
             color: #ADD8E6;
@@ -115,14 +115,14 @@
         </br>
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](datascience-as-a-service.md){ .md-button }
 </br>
 </br>
 </br>
 </br>
 
 !!! tip inline "Training"
-    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/data-analysis.jpeg)
+    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/data-analysis.jpeg)
 <div>
     <p style="font-size: 25px;
             color: #ADD8E6;
@@ -140,14 +140,14 @@
         </br>
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](training.md){ .md-button }
 </br>
 </br>
 </br>
 </br>
 
 !!! tip inline end "Consultancy"
-    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/Toebias-enterprise.github.io/main/assets/images/consultancy.jpeg)
+    ![data-analytics](https://raw.githubusercontent.com/Toebias-enterprise/assets/main/consultancy.jpeg)
 <div>
     <p style="font-size: 25px;
             background: -webkit-linear-gradient(left, #067d68, #50d5b7);
@@ -165,7 +165,7 @@
         </br>
     </p>
 </div>
-[Read More](#){ .md-button }
+[Read More](consultancy.md){ .md-button }
 </br>
 </br>
 </br>
@@ -173,7 +173,5 @@
 !!! success "Reach Out"
     <h3>
         Reach out via email at 
-        <p style="color:#067d68">
-            services@toebias.com
-        </p>
+        [services@toebias.com](mailto:services@toebias.com)
     </h3>
