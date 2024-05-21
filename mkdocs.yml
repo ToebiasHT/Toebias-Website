@@ -1,6 +1,7 @@
 site_name: Toe•bias
 site_url: https://www.toebias.com
 theme:
+ logo: assets/toe-small-white.png
  name: material
  features:
   - navigation.footer
