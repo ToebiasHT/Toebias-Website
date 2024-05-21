@@ -17,7 +17,7 @@
     </b>
 </p>
 <h1 style="text-align:center">
-    Accelerate you business growth with our cutting-edge Ai and data-driven decision making solutions below.
+    Accelerate you business growth with cutting-edge Ai and data-driven decision making solutions below.
 </h1>
 </br>
 

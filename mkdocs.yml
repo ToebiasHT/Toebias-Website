@@ -3,9 +3,7 @@ site_url: https://www.toebias.com
 theme:
  name: material
  features:
-  - naviagtion.tabs
-  - naviagtion.tabs.sticky
-  - naviagtion.footer
+  - navigation.footer
  palette:
   primary: teal
 markdown_extensions:
@@ -31,3 +29,4 @@ nav:
   - Datascience as a service: datascience-as-a-service.md
   - Training: training.md
   - Consultancy: consultancy.md
+  - Blog: https://blog.toebias.com/
